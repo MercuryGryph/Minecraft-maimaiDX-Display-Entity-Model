@@ -1,0 +1,1389 @@
+# this file is .yaml only because vsCode think this data structure is suit for it and can format it.
+# so i just change this file to .yaml so your editor can color it when you read it and even help you if you want to edit it by hand.
+
+{
+  Passengers:
+    [
+      {
+        block_state: { Name: "minecraft:black_concrete" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [2.7499998f, 0.24999999f, 1.2499999f],
+            translation: [-1.3749999f, 0.031249998f, -0.62499994f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:black_concrete" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [-0.06104861f, 0.0f, 0.0f, 0.99813485f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [2.7500017f, 2.5624988f, 0.31249985f],
+            translation: [-1.3749999f, 0.24050795f, -0.3114402f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:black_concrete" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [2.7499998f, 2.5624995f, 0.31249997f],
+            translation: [-1.3749999f, 0.28124997f, -0.62499994f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:smooth_quartz" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [-0.13052617f, 0.0f, 0.0f, 0.9914449f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [1.218751f, 1.7500026f, 0.5000008f],
+            translation: [0.14062499f, 0.74636f, 0.016235216f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:white_concrete" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [-0.13052617f, 0.0f, 0.0f, 0.9914449f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [1.218751f, 1.7500026f, 0.5000008f],
+            translation: [-0.60937494f, 0.74636f, -0.015014781f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:smooth_quartz" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [-0.13052617f, 0.0f, 0.0f, 0.9914449f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [1.218751f, 1.7500026f, 0.5000008f],
+            translation: [-1.3593749f, 0.74636f, 0.016235216f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:orange_concrete" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [-0.13052621f, 0.0f, 0.0f, 0.9914449f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [1.2454149f, 0.5625005f, 0.53125066f],
+            translation: [0.12729315f, 1.9720844f, -0.34003115f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:orange_concrete" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [-0.13052621f, 0.0f, 0.0f, 0.9914449f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [1.2454149f, 0.5625005f, 0.53125066f],
+            translation: [-1.3727068f, 1.9720844f, -0.34003115f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:smooth_quartz" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [0.09374997f, 0.09374998f, 0.124999955f],
+            translation: [-0.046874993f, 2.3906248f, 0.031249996f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:black_wool" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [0.15624999f, 0.031249998f, 0.031249996f],
+            translation: [-0.070897795f, 2.2968748f, 0.07812499f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:black_concrete" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [-0.13052613f, 0.0f, 0.0f, 0.99144495f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [2.6250002f, 0.13719018f, 0.5487615f],
+            translation: [-1.3115251f, 2.4564772f, -0.34102723f],
+          },
+      },
+      {
+        Passengers:
+          [
+            {
+              block_state: { Name: "minecraft:glass" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.2588191f, 0.0f, 0.0f, 0.9659258f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.0820313f, 0.08203125f, 0.08203128f],
+                  translation: [-0.041015636f, 2.415651f, 0.11206177f],
+                },
+            },
+            {
+              block_state:
+                {
+                  Name: "minecraft:black_shulker_box",
+                  Properties: { facing: "up" },
+                },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.8660254f, 0.0f, 0.0f, 0.50000006f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.06835947f, 0.0683594f, 0.0683594f],
+                  translation: [-0.0341797f, 2.477354f, 0.15557952f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:black_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.258819f, 0.0f, 0.0f, 0.9659259f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.027343772f, 0.013671889f, 0.013671888f],
+                  translation: [0.054687478f, 2.367129f, 0.15508872f],
+                },
+            },
+          ],
+        block_state: { Name: "minecraft:smooth_quartz" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [0.2588191f, 0.0f, 0.0f, 0.9659258f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [0.21875009f, 0.1640625f, 0.082031295f],
+            translation: [-0.109374985f, 2.3869665f, 0.079713784f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:white_concrete" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [1.0937499f, 0.49999997f, 0.4487179f],
+            translation: [-0.54687494f, 0.3764203f, 0.019171296f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:smooth_quartz" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [2.7187498f, 0.49999997f, 0.62499994f],
+            translation: [-1.3593749f, 0.84374994f, -0.43749994f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:smooth_quartz" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [1.2187499f, 0.49999997f, 0.62499994f],
+            translation: [0.14062499f, 0.37634274f, -0.12561034f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:white_concrete" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [0.258819f, 0.0f, 0.0f, 0.9659259f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [1.0824139f, 0.36080438f, 0.4995749f],
+            translation: [-0.5412064f, 0.31353316f, -0.14558616f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:smooth_quartz" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [0.25881904f, 0.0f, 0.0f, 0.96592593f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [1.2187504f, 0.4062502f, 0.5625005f],
+            translation: [0.14062499f, 0.3059f, -0.19071971f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:smooth_quartz" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [1.2187499f, 0.49999997f, 0.62499994f],
+            translation: [-1.3593749f, 0.37634274f, -0.12561034f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:smooth_quartz" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [0.25881907f, 0.0f, 0.0f, 0.9659258f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [1.21875f, 0.40625003f, 0.5625f],
+            translation: [-1.3593749f, 0.3059f, -0.19071971f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:pink_concrete" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [-0.1305262f, 0.0f, 0.0f, 0.99144495f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [2.7499998f, 0.3437501f, 0.3437501f],
+            translation: [-1.3732444f, 2.5707467f, -0.31249997f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:pink_concrete" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [-0.13052617f, 0.0f, 0.0f, 0.9914449f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [2.7500002f, 0.15625015f, 0.62500113f],
+            translation: [-1.3732435f, 2.4686558f, -0.31288177f],
+          },
+      },
+      {
+        Passengers:
+          [
+            {
+              block_state:
+                {
+                  Name: "minecraft:white_shulker_box",
+                  Properties: { facing: "up" },
+                },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [0.59654033f, -0.15816925f, -0.12136756f, 0.77742666f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.15625f, 0.15625f, 0.15625007f],
+                  translation: [0.89611125f, 2.0325718f, 0.06604021f],
+                },
+            },
+            {
+              block_state:
+                {
+                  Name: "minecraft:white_shulker_box",
+                  Properties: { facing: "up" },
+                },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [0.59654033f, -0.15816922f, -0.12136751f, 0.77742666f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.15624993f, 0.15625f, 0.15624991f],
+                  translation: [1.1461112f, 1.4288683f, 0.2278021f],
+                },
+            },
+            {
+              block_state:
+                {
+                  Name: "minecraft:white_shulker_box",
+                  Properties: { facing: "up" },
+                },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [0.5965405f, 0.15816927f, 0.12136753f, 0.7774265f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.15625f, 0.15624999f, 0.15624993f],
+                  translation: [0.4602235f, 1.9735688f, 0.08197942f],
+                },
+            },
+            {
+              block_state:
+                {
+                  Name: "minecraft:white_shulker_box",
+                  Properties: { facing: "up" },
+                },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [0.59654033f, -0.15816922f, -0.12136751f, 0.77742666f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.15624993f, 0.15625f, 0.15624991f],
+                  translation: [0.52111137f, 1.1873869f, 0.29250684f],
+                },
+            },
+            {
+              block_state:
+                {
+                  Name: "minecraft:white_shulker_box",
+                  Properties: { facing: "up" },
+                },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [0.59654033f, 0.15816922f, 0.12136751f, 0.77742666f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.15624993f, 0.15625f, 0.15624991f],
+                  translation: [0.8350595f, 1.1284153f, 0.3083082f],
+                },
+            },
+            {
+              block_state:
+                {
+                  Name: "minecraft:white_shulker_box",
+                  Properties: { facing: "up" },
+                },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [0.59654033f, 0.15816922f, 0.12136751f, 0.77742666f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.15624993f, 0.15625f, 0.15624991f],
+                  translation: [1.0850595f, 1.732119f, 0.14654632f],
+                },
+            },
+            {
+              block_state:
+                {
+                  Name: "minecraft:white_shulker_box",
+                  Properties: { facing: "up" },
+                },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [0.59654033f, 0.15816922f, 0.12136751f, 0.77742666f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.15624993f, 0.15625f, 0.15624991f],
+                  translation: [0.21005973f, 1.3698968f, 0.24360345f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:white_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [-0.052047238f, 0.11970033f, 0.90921456f, 0.39533776f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.37499958f, 0.15625f, 0.124999955f],
+                  translation: [0.6225169f, 1.1322597f, 0.3234543f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:white_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [-0.09229596f, -0.09229596f, -0.70105743f, 0.70105743f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.37499994f, 0.1562499f, 0.12500007f],
+                  translation: [1.1093749f, 1.6961848f, 0.17235105f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:white_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.0f, 0.1305262f, 0.99144495f, 0.0f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.375f, 0.15625007f, 0.12500006f],
+                  translation: [0.92398614f, 1.1679441f, 0.31389272f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:white_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [-0.09229596f, 0.09229596f, 0.70105743f, 0.70105743f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.37499994f, 0.15625001f, 0.124999955f],
+                  translation: [0.39062494f, 1.3339626f, 0.2694082f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:white_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [-0.1205905f, 0.04995029f, 0.3794096f, 0.91597563f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.37499994f, 0.15625004f, 0.12500015f],
+                  translation: [0.3601899f, 1.6354961f, 0.18861249f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:white_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [-0.1205905f, -0.04995029f, -0.3794096f, 0.91597563f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.37499994f, 0.15625004f, 0.12500015f],
+                  translation: [0.8746704f, 1.8916013f, 0.11998935f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:white_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [0.049950235f, 0.12059039f, 0.91597563f, -0.37940955f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.37500024f, 0.15625027f, 0.12500015f],
+                  translation: [1.1398098f, 1.3946512f, 0.25314674f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:white_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [-0.13052621f, 0.0f, 0.0f, 0.99144495f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.3124999f, 0.15625006f, 0.12500007f],
+                  translation: [0.59374994f, 1.8622032f, 0.12786652f],
+                },
+            },
+            {
+              block_state:
+                {
+                  Name: "minecraft:white_shulker_box",
+                  Properties: { facing: "up" },
+                },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [0.59654033f, -0.15816927f, -0.121367544f, 0.7774266f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.15624987f, 0.1562498f, 0.15624984f],
+                  translation: [0.2711114f, 1.7910904f, 0.13074495f],
+                },
+            },
+          ],
+        block_state: { Name: "minecraft:black_wool" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [-0.13052621f, 0.0f, 0.0f, 0.99144495f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [0.71875036f, 0.7187499f, 0.09374998f],
+            translation: [0.39062494f, 1.1719881f, 0.3289853f],
+          },
+      },
+      {
+        Passengers:
+          [
+            {
+              block_state: { Name: "minecraft:black_wool" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [-0.1305262f, 0.0f, 0.0f, 0.99144495f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.9375006f, 0.34821424f, 0.12499998f],
+                  translation: [-1.2185653f, 2.128149f, 0.047191873f],
+                },
+            },
+          ],
+        block_state: { Name: "minecraft:glass" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [-0.13052619f, 0.0f, 0.0f, 0.99144495f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [0.96875036f, 0.3749999f, 0.15625f],
+            translation: [-1.2343749f, 2.1111684f, 0.03556561f],
+          },
+      },
+      {
+        block_state:
+          { Name: "minecraft:red_shulker_box", Properties: { facing: "up" } },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [0.60876137f, 0.0f, 0.0f, 0.7933535f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [0.06250001f, 0.062499963f, 0.062499963f],
+            translation: [0.03125001f, 1.740847f, 0.21172671f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:black_wool" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [0.18749994f, 0.18749996f, 0.18749994f],
+            translation: [0.65624994f, 0.062499996f, 0.46874994f],
+          },
+      },
+      {
+        Passengers:
+          [
+            {
+              block_state: { Name: "minecraft:smooth_quartz" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.18977472f, 0.9818277f, 0.0f, 0.0f],
+                  right_rotation: [0.0f, 0.0f, -0.18215773f, 0.98326933f],
+                  scale: [0.10719294f, 0.2158931f, 0.104641326f],
+                  translation: [1.1874948f, 0.70926464f, 0.52107036f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:smooth_quartz" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.0f, 0.0f, 0.8996301f, -0.43665275f],
+                  right_rotation: [0.0f, 0.0f, -0.18211982f, 0.98327637f],
+                  scale: [0.107219264f, 0.21584003f, 0.1046414f],
+                  translation: [1.1815978f, 0.73135567f, 0.41642955f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:smooth_quartz" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.98182774f, -0.18977495f, 0.0f, 0.0f],
+                  right_rotation: [0.0f, 0.0f, -0.1821583f, 0.9832692f],
+                  scale: [0.107192874f, 0.21589318f, 0.10464117f],
+                  translation: [1.0459527f, 0.69510937f, 0.52107036f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:smooth_quartz" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.0f, 0.0f, 0.13018632f, 0.9914896f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.07844491f, 0.34023902f, 0.10464099f],
+                  translation: [0.7985008f, 0.45617062f, 0.41642946f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:smooth_quartz" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.0f, 0.0f, 0.13018632f, 0.9914896f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.052296564f, 0.052344427f, 0.104640946f],
+                  translation: [0.9508397f, 0.6458755f, 0.41642946f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:smooth_quartz" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.0f, 0.0f, 0.6085708f, 0.7934996f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.18318379f, 0.07845413f, 0.10464091f],
+                  translation: [0.9532085f, 0.48989594f, 0.41642946f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:smooth_quartz" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.0f, 0.0f, 0.13018632f, 0.9914896f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.078444906f, 0.07851671f, 0.104641005f],
+                  translation: [0.8067856f, 0.72928935f, 0.41642946f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:smooth_quartz" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.0f, 0.0f, 0.13018632f, 0.9914896f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.078444906f, 0.07851671f, 0.104641005f],
+                  translation: [0.87428653f, 0.47642168f, 0.41642946f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:smooth_quartz" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.0f, 0.0f, -0.38327125f, 0.92363596f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.18314336f, 0.07847139f, 0.104640916f],
+                  translation: [0.8061552f, 0.7773715f, 0.41642946f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:smooth_quartz" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.0f, 0.0f, 0.49984613f, 0.8661143f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.078490734f, 0.07847073f, 0.104640916f],
+                  translation: [0.9331468f, 0.6107706f, 0.4164295f],
+                },
+            },
+          ],
+        block_state: { Name: "minecraft:smooth_quartz" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [0.0f, 0.0f, 0.43665105f, 0.89963096f],
+            right_rotation: [0.0f, 0.0f, -0.1821169f, 0.98327696f],
+            scale: [0.107219115f, 0.21584012f, 0.10464127f],
+            translation: [1.0528803f, 0.6732937f, 0.41642955f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:black_wool" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [-0.1305262f, 0.0f, 0.0f, 0.99144495f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [0.18750004f, 0.15625006f, 0.1875f],
+            translation: [0.65624994f, 2.54143f, -0.0037912647f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:black_wool" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [-0.1305262f, 0.0f, 0.0f, 0.99144495f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [0.18750004f, 0.15625006f, 0.18750001f],
+            translation: [-0.8437499f, 2.54143f, -0.0037912647f],
+          },
+      },
+      {
+        Passengers:
+          [
+            {
+              block_state: { Name: "minecraft:smooth_stone" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [-0.13052611f, 0.0f, 0.0f, 0.9914449f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.03125001f, 0.06250001f, 0.0625f],
+                  translation: [-0.015624998f, 0.8388563f, 0.43157905f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:smooth_stone" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [-0.13052611f, 0.0f, 0.0f, 0.9914449f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.06250002f, 0.06250001f, 0.0625f],
+                  translation: [-0.031249996f, 0.95959705f, 0.39922667f],
+                },
+            },
+          ],
+        block_state: { Name: "minecraft:smooth_stone" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [-0.13052611f, 0.0f, 0.0f, 0.9914449f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [0.12500004f, 0.25000003f, 0.03125f],
+            translation: [-0.062499993f, 0.8127152f, 0.45475972f],
+          },
+      },
+      {
+        Passengers:
+          [
+            {
+              block_state: { Name: "minecraft:white_wool" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [-0.13052611f, 0.0f, 0.0f, 0.9914449f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.06250002f, 0.031250004f, 0.034984432f],
+                  translation: [-0.031249996f, 1.2761328f, 0.34151497f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:black_wool" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [-0.13052624f, 0.0f, 0.0f, 0.9914449f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.056131747f, 0.05613175f, 0.056131765f],
+                  translation: [-0.028065877f, 1.1843764f, 0.3551544f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:light_gray_wool" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [-0.13052611f, 0.0f, 0.0f, 0.9914449f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.12500004f, 0.25000003f, 0.03125f],
+                  translation: [-0.062499993f, 1.1241503f, 0.38417163f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:white_wool" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [-0.13052611f, 0.0f, 0.0f, 0.9914449f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.06250002f, 0.031250004f, 0.034984432f],
+                  translation: [-0.031249996f, 1.1387596f, 0.378324f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:white_wool" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [-0.13052611f, 0.0f, 0.0f, 0.9914449f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.06250002f, 0.031250004f, 0.034984432f],
+                  translation: [-0.031249996f, 1.3198707f, 0.32979545f],
+                },
+            },
+          ],
+        block_state: { Name: "minecraft:black_stained_glass" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [-0.13052611f, 0.0f, 0.0f, 0.9914449f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [0.06250002f, 0.06250001f, 0.0625f],
+            translation: [-0.031249996f, 1.1804765f, 0.3529029f],
+          },
+      },
+      {
+        Passengers:
+          [
+            {
+              block_state: { Name: "minecraft:black_wool" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [-0.13052621f, -1.6932498E-8f, 6.8420447E-9f, 0.9914449f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.93750036f, 0.34821433f, 0.12499995f],
+                  translation: [0.28143442f, 2.128149f, 0.047191877f],
+                },
+            },
+          ],
+        block_state: { Name: "minecraft:glass" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [-0.13052619f, 0.0f, 0.0f, 0.99144495f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [0.9687495f, 0.37499988f, 0.15625f],
+            translation: [0.26562485f, 2.1111684f, 0.03556555f],
+          },
+      },
+      {
+        block_state:
+          { Name: "minecraft:blue_shulker_box", Properties: { facing: "up" } },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [0.60876137f, 0.0f, 0.0f, 0.7933535f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [0.06250001f, 0.062499963f, 0.062499963f],
+            translation: [-0.09374998f, 1.740847f, 0.21172671f],
+          },
+      },
+      {
+        Passengers:
+          [
+            {
+              block_state: { Name: "minecraft:smooth_quartz" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.18977472f, 0.9818277f, 0.0f, 0.0f],
+                  right_rotation: [0.0f, 0.0f, -0.18215773f, 0.98326933f],
+                  scale: [0.10719294f, 0.2158931f, 0.104641326f],
+                  translation: [-0.31250504f, 0.70926464f, 0.52107036f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:smooth_quartz" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.0f, 0.0f, 0.8996301f, -0.43665275f],
+                  right_rotation: [0.0f, 0.0f, -0.18211982f, 0.98327637f],
+                  scale: [0.107219264f, 0.21584003f, 0.1046414f],
+                  translation: [-0.31840208f, 0.73135567f, 0.41642955f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:smooth_quartz" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.98182774f, -0.18977495f, 0.0f, 0.0f],
+                  right_rotation: [0.0f, 0.0f, -0.1821583f, 0.9832692f],
+                  scale: [0.107192874f, 0.21589318f, 0.10464117f],
+                  translation: [-0.45404717f, 0.69510937f, 0.52107036f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:smooth_quartz" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.0f, 0.0f, 0.13018632f, 0.9914896f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.07844491f, 0.34023902f, 0.10464099f],
+                  translation: [-0.70149904f, 0.45617062f, 0.41642946f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:smooth_quartz" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.0f, 0.0f, 0.1301863f, 0.9914896f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.05229658f, 0.052344456f, 0.10464097f],
+                  translation: [-0.5491601f, 0.6458755f, 0.41642946f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:smooth_quartz" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.0f, 0.0f, 0.6085708f, 0.7934996f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.18318379f, 0.07845413f, 0.10464091f],
+                  translation: [-0.5467913f, 0.48989594f, 0.41642946f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:smooth_quartz" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.0f, 0.0f, 0.13018632f, 0.9914896f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.078444906f, 0.07851671f, 0.104641005f],
+                  translation: [-0.69321424f, 0.72928935f, 0.41642946f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:smooth_quartz" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.0f, 0.0f, 0.13018632f, 0.9914896f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.078444906f, 0.07851671f, 0.104641005f],
+                  translation: [-0.6257133f, 0.47642168f, 0.41642946f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:smooth_quartz" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.0f, 0.0f, -0.38327125f, 0.92363596f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.18314336f, 0.07847139f, 0.104640916f],
+                  translation: [-0.6938446f, 0.7773715f, 0.41642946f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:smooth_quartz" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.0f, 0.0f, 0.49984604f, 0.86611426f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.07849079f, 0.0784708f, 0.104641f],
+                  translation: [-0.56685305f, 0.6107706f, 0.4164295f],
+                },
+            },
+          ],
+        block_state: { Name: "minecraft:smooth_quartz" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [0.0f, 0.0f, 0.43665102f, 0.8996311f],
+            right_rotation: [0.0f, 0.0f, -0.18211676f, 0.9832769f],
+            scale: [0.107219115f, 0.2158401f, 0.10464128f],
+            translation: [-0.44711953f, 0.6732937f, 0.41642955f],
+          },
+      },
+      {
+        Passengers:
+          [
+            {
+              Passengers:
+                [
+                  {
+                    block_state: { Name: "minecraft:black_concrete" },
+                    id: "minecraft:block_display",
+                    transformation:
+                      {
+                        left_rotation:
+                          [
+                            6.1557004E-10f,
+                            0.99144495f,
+                            -0.13052624f,
+                            8.1041264E-11f,
+                          ],
+                        right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                        scale: [0.093750015f, 0.24999988f, 0.25000006f],
+                        translation: [1.4531249f, 2.1839726f, -0.052056782f],
+                      },
+                  },
+                  {
+                    block_state: { Name: "minecraft:lime_concrete" },
+                    id: "minecraft:block_display",
+                    transformation:
+                      {
+                        left_rotation: [0.0f, 0.99144495f, -0.13052616f, 0.0f],
+                        right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                        scale: [0.031250004f, 0.37499985f, 0.37499982f],
+                        translation: [1.4218749f, 2.1397784f, 0.024489697f],
+                      },
+                  },
+                  {
+                    block_state: { Name: "minecraft:light_blue_concrete" },
+                    id: "minecraft:block_display",
+                    transformation:
+                      {
+                        left_rotation: [0.0f, 0.99144495f, -0.13052619f, 0.0f],
+                        right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                        scale: [0.06250003f, 0.3125002f, 0.31250018f],
+                        translation: [1.4374999f, 2.1618755f, -0.013783572f],
+                      },
+                  },
+                ],
+              block_state: { Name: "minecraft:orange_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.0f, 0.99144495f, -0.1305262f, 0.0f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.06250003f, 0.4375005f, 0.43750048f],
+                  translation: [1.4062499f, 2.1176813f, 0.062763f],
+                },
+            },
+            {
+              Passengers:
+                [
+                  {
+                    block_state: { Name: "minecraft:black_concrete" },
+                    id: "minecraft:block_display",
+                    transformation:
+                      {
+                        left_rotation: [-0.13052611f, 0.0f, 0.0f, 0.9914449f],
+                        right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                        scale: [0.09375003f, 0.24999991f, 0.24999996f],
+                        translation: [-1.4531249f, 2.1192677f, -0.2935384f],
+                      },
+                  },
+                  {
+                    block_state: { Name: "minecraft:lime_concrete" },
+                    id: "minecraft:block_display",
+                    transformation:
+                      {
+                        left_rotation: [-0.1305261f, 0.0f, 0.0f, 0.9914449f],
+                        right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                        scale: [0.031250022f, 0.37500006f, 0.37500006f],
+                        translation: [-1.4218749f, 2.0427213f, -0.33773255f],
+                      },
+                  },
+                  {
+                    block_state: { Name: "minecraft:light_blue_concrete" },
+                    id: "minecraft:block_display",
+                    transformation:
+                      {
+                        left_rotation: [-0.13052613f, 0.0f, 0.0f, 0.99144495f],
+                        right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                        scale: [0.06250003f, 0.31250015f, 0.31250015f],
+                        translation: [-1.4374999f, 2.0809944f, -0.31563547f],
+                      },
+                  },
+                ],
+              block_state: { Name: "minecraft:orange_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [-0.13052623f, 0.0f, 0.0f, 0.99144495f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.0625f, 0.43750024f, 0.4375002f],
+                  translation: [-1.4062499f, 2.004448f, -0.35982963f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:black_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [-0.1305262f, 0.0f, 0.0f, 0.9914449f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.12500006f, 0.43750036f, 0.1250001f],
+                  translation: [-1.4374999f, 2.4071107f, -0.3059608f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:black_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [-0.1305262f, 0.0f, 0.0f, 0.9914449f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.12500006f, 0.43750036f, 0.1250001f],
+                  translation: [1.3124999f, 2.4071107f, -0.3059608f],
+                },
+            },
+          ],
+        block_state: { Name: "minecraft:black_concrete" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [-0.13052611f, 0.0f, 0.0f, 0.9914449f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [2.8750007f, 0.12500001f, 0.125f],
+            translation: [-1.4374999f, 2.829703f, -0.4191941f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:black_concrete" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [0.6087614f, 0.0f, 0.0f, 0.7933534f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [0.09375003f, 0.031249998f, 0.09374999f],
+            translation: [-0.10937495f, 1.7599835f, 0.22277525f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:black_concrete" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [0.6087614f, 0.0f, 0.0f, 0.7933534f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [0.09375003f, 0.031249998f, 0.09374999f],
+            translation: [0.015625035f, 1.7599835f, 0.22277525f],
+          },
+      },
+      {
+        Passengers:
+          [
+            {
+              block_state:
+                {
+                  Name: "minecraft:white_shulker_box",
+                  Properties: { facing: "up" },
+                },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [0.5965403f, -0.1581692f, -0.12136752f, 0.7774267f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.15625006f, 0.15625004f, 0.15625016f],
+                  translation: [-0.6038886f, 2.0325716f, 0.06604024f],
+                },
+            },
+            {
+              block_state:
+                {
+                  Name: "minecraft:white_shulker_box",
+                  Properties: { facing: "up" },
+                },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [0.5965404f, -0.15816937f, -0.1213676f, 0.77742654f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.15624984f, 0.15624991f, 0.15624993f],
+                  translation: [-0.3538886f, 1.4288683f, 0.2278021f],
+                },
+            },
+            {
+              block_state:
+                {
+                  Name: "minecraft:white_shulker_box",
+                  Properties: { facing: "up" },
+                },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [0.59654033f, 0.15816922f, 0.12136749f, 0.77742654f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.15624999f, 0.15625001f, 0.15624987f],
+                  translation: [-1.0397763f, 1.9735688f, 0.081979446f],
+                },
+            },
+            {
+              block_state:
+                {
+                  Name: "minecraft:white_shulker_box",
+                  Properties: { facing: "up" },
+                },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [0.5965404f, -0.15816937f, -0.1213676f, 0.77742654f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.15624984f, 0.15624991f, 0.15624993f],
+                  translation: [-0.9788885f, 1.1873868f, 0.29250684f],
+                },
+            },
+            {
+              block_state:
+                {
+                  Name: "minecraft:white_shulker_box",
+                  Properties: { facing: "up" },
+                },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [0.5965404f, 0.15816937f, 0.1213676f, 0.77742654f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.15624984f, 0.15624991f, 0.15624993f],
+                  translation: [-0.6649403f, 1.1284153f, 0.3083082f],
+                },
+            },
+            {
+              block_state:
+                {
+                  Name: "minecraft:white_shulker_box",
+                  Properties: { facing: "up" },
+                },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [0.5965404f, 0.15816937f, 0.1213676f, 0.77742654f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.15624984f, 0.15624991f, 0.15624993f],
+                  translation: [-0.41494036f, 1.732119f, 0.14654632f],
+                },
+            },
+            {
+              block_state:
+                {
+                  Name: "minecraft:white_shulker_box",
+                  Properties: { facing: "up" },
+                },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [0.5965404f, 0.15816937f, 0.1213676f, 0.77742654f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.15624984f, 0.15624991f, 0.15624993f],
+                  translation: [-1.2899401f, 1.3698968f, 0.24360345f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:white_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [-0.052047204f, 0.11970036f, 0.90921456f, 0.3953377f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.37499994f, 0.15625025f, 0.12500021f],
+                  translation: [-0.87748295f, 1.1322597f, 0.3234543f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:white_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [-0.09229596f, -0.09229596f, -0.70105743f, 0.70105743f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.37499994f, 0.15625001f, 0.12500009f],
+                  translation: [-0.39062506f, 1.6961848f, 0.17235105f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:white_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [0.0f, 0.13052619f, 0.99144495f, 0.0f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.37500006f, 0.15625009f, 0.12500007f],
+                  translation: [-0.5760137f, 1.1679441f, 0.31389272f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:white_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [-0.09229596f, 0.09229596f, 0.70105743f, 0.70105743f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.37499994f, 0.15624994f, 0.124999985f],
+                  translation: [-1.1093749f, 1.3339626f, 0.2694082f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:white_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [-0.120590426f, 0.049950212f, 0.37940967f, 0.9159756f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.3750001f, 0.15625016f, 0.1250001f],
+                  translation: [-1.13981f, 1.6354961f, 0.1886125f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:white_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [-0.120590426f, -0.049950212f, -0.37940967f, 0.9159756f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.3750001f, 0.15625016f, 0.1250001f],
+                  translation: [-0.62532943f, 1.8916012f, 0.11998935f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:white_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [0.049950227f, 0.12059041f, 0.9159757f, -0.37940958f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.3750002f, 0.15625022f, 0.12500012f],
+                  translation: [-0.36019f, 1.3946512f, 0.25314674f],
+                },
+            },
+            {
+              block_state: { Name: "minecraft:white_concrete" },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation: [-0.13052621f, 0.0f, 0.0f, 0.99144495f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.31249988f, 0.15625006f, 0.12500009f],
+                  translation: [-0.90624994f, 1.8622031f, 0.12786654f],
+                },
+            },
+            {
+              block_state:
+                {
+                  Name: "minecraft:white_shulker_box",
+                  Properties: { facing: "up" },
+                },
+              id: "minecraft:block_display",
+              transformation:
+                {
+                  left_rotation:
+                    [0.59654033f, -0.15816933f, -0.1213676f, 0.7774265f],
+                  right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+                  scale: [0.15624987f, 0.15624996f, 0.15624994f],
+                  translation: [-1.2288885f, 1.7910904f, 0.13074495f],
+                },
+            },
+          ],
+        block_state: { Name: "minecraft:black_wool" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [-0.1305262f, 0.0f, 0.0f, 0.9914449f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [0.7187506f, 0.7187502f, 0.09375004f],
+            translation: [-1.1093749f, 1.1719881f, 0.3289853f],
+          },
+      },
+      {
+        block_state: { Name: "minecraft:black_wool" },
+        id: "minecraft:block_display",
+        transformation:
+          {
+            left_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+            scale: [0.18749994f, 0.18749996f, 0.18749994f],
+            translation: [-0.8437499f, 0.062499996f, 0.46874994f],
+          },
+      },
+    ],
+  block_state: { Name: "minecraft:white_concrete" },
+  transformation:
+    {
+      left_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+      right_rotation: [0.0f, 0.0f, 0.0f, 1.0f],
+      scale: [2.6874998f, 0.0625f, 1.1874999f],
+      translation: [-1.34375f, 0.0f, -0.59375006f],
+    },
+}
