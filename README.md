@@ -4,6 +4,11 @@
 
 ---
 
+LICENSE: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
+---
+
 几乎 1:1 的 **舞萌DX** 机台模型，
  只使用[**展示实体**](https://zh.minecraft.wiki/w/%E5%B1%95%E7%A4%BA%E5%AE%9E%E4%BD%93)在**我的世界**中制作。
 
